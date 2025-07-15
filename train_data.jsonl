@@ -1,0 +1,88 @@
+{"text": "Q: A farmer has 20 cows and buys 15 more. He sells 5. How many cows does he have now?\nA: Let's think step by step. Let's think step by step. He had 20, bought 15 \u2192 20 + 15 = 35. Then sold 5 \u2192 35 - 5 = 30."}
+{"text": "Q: Tom has 5 boxes of pencils. Each box has 12 pencils. How many pencils does Tom have?\nA: Let's think step by step. Each box has 12 pencils. 5 boxes \u00d7 12 = 60 pencils."}
+{"text": "Q: Jenny buys 3 shirts for $15 each and 2 pairs of pants for $25 each. How much does she spend in total?\nA: Let's think step by step. 3 shirts \u00d7 $15 = $45. 2 pants \u00d7 $25 = $50. Total: $45 + $50 = $95."}
+{"text": "Q: A rectangle is 8 meters long and 3 meters wide. What is its area?\nA: Let's think step by step. Area of rectangle = length \u00d7 width. So, 8 \u00d7 3 = 24 m\u00b2."}
+{"text": "Q: There are 12 cookies. If each child gets 3 cookies, how many children can share them?\nA: Let's think step by step. 12 \u00f7 3 = 4 children."}
+{"text": "Q: Lily reads 30 pages per day. How many pages does she read in a week?\nA: Let's think step by step. 30 pages/day \u00d7 7 days = 210 pages."}
+{"text": "Q: If 1 book costs $8, how many books can you buy with $40?\nA: Let's think step by step. 40 \u00f7 8 = 5 books."}
+{"text": "Q: A pizza has 8 slices. If 3 friends share 2 pizzas equally, how many slices does each get?\nA: Let's think step by step. 2 pizzas = 16 slices. 16 \u00f7 3 = 5.33 slices per friend."}
+{"text": "Q: There are 5 bags with 6 marbles each. How many marbles are there in total?\nA: Let's think step by step. 5 \u00d7 6 = 30 marbles."}
+{"text": "Q: A triangle has sides of 5 cm, 6 cm, and 7 cm. What is its perimeter?\nA: Let's think step by step. 5 + 6 + 7 = 18 cm."}
+{"text": "Q: Each table has 4 legs. How many legs do 9 tables have?\nA: Let's think step by step. 9 \u00d7 4 = 36 legs."}
+{"text": "Q: A box weighs 12 kg. Another weighs 3 kg more. What\u2019s the weight of the second box?\nA: Let's think step by step. 12 + 3 = 15 kg."}
+{"text": "Q: A phone costs $600. It\u2019s on sale with a 25% discount. What\u2019s the sale price?\nA: Let's think step by step. 25% of $600 = $150. Sale price = $600 - $150 = $450."}
+{"text": "Q: An apple costs $0.80. How much do 7 apples cost?\nA: Let's think step by step. 0.80 \u00d7 7 = $5.60."}
+{"text": "Q: You run 3 km per day. How far do you run in 10 days?\nA: Let's think step by step. 3 \u00d7 10 = 30 km."}
+{"text": "Q: Jack has $50. He buys a toy for $18. How much money is left?\nA: Let's think step by step. 50 - 18 = 32."}
+{"text": "Q: If there are 24 hours in a day, how many hours in 5 days?\nA: Let's think step by step. 24 \u00d7 5 = 120 hours."}
+{"text": "Q: A baker makes 40 loaves of bread in 5 hours. How many loaves per hour?\nA: Let's think step by step. 40 \u00f7 5 = 8 loaves/hour."}
+{"text": "Q: You save $10 per week. How much after 6 weeks?\nA: Let's think step by step. $10 \u00d7 6 = $60."}
+{"text": "Q: If 2 pencils cost $3, how much do 10 pencils cost?\nA: Let's think step by step. $3 \u00f7 2 = $1.50/pencil. 10 \u00d7 1.5 = $15."}
+{"text": "Q: What is the average of 6, 12, 18?\nA: Let's think step by step. (6 + 12 + 18) = 36; 36 \u00f7 3 = 12."}
+{"text": "Q: Sarah has 3 notebooks, each with 120 pages. She uses 30 pages from each. How many pages remain unused?\nA: Let's think step by step. Each notebook: 120 - 30 = 90 pages unused. 3 notebooks: 3 \u00d7 90 = 270 pages remain."}
+{"text": "Q: All mammals are animals. All dogs are mammals. Are all dogs animals?\nA: Let's think step by step. All dogs are mammals and all mammals are animals \u2192 by transitivity, all dogs are animals."}
+{"text": "Q: All cats are animals. Some animals are dogs. Are all cats dogs?\nA: Let's think step by step. Not all animals are dogs. So, being a cat doesn't imply being a dog."}
+{"text": "Q: If no pencils are pens and some pens are markers, can pencils be markers?\nA: Let's think step by step. Pencils are not pens, and some pens are markers. No connection exists between pencils and markers."}
+{"text": "Q: If A > B and B > C, then is A > C?\nA: Let's think step by step. Yes, transitive property: A > B > C implies A > C."}
+{"text": "Q: If the moon is made of cheese, and cheese is dairy, is the moon dairy?\nA: Let's think step by step. If both statements are true, then yes, the moon would be dairy."}
+{"text": "Q: If all red flowers are roses and this flower is not red, is it a rose?\nA: Let's think step by step. The flower not being red doesn\u2019t prove it\u2019s not a rose; could be a rose of different color."}
+{"text": "Q: If today is Monday, what day will it be in 4 days?\nA: Let's think step by step. Monday + 4 = Friday."}
+{"text": "Q: All squares are rectangles. Are all rectangles squares?\nA: Let's think step by step. No. All squares are rectangles, but not all rectangles are squares."}
+{"text": "Q: If it rains, the grass grows. It rained. Did the grass grow?\nA: Let's think step by step. Yes, according to the conditional statement."}
+{"text": "Q: If Bob is taller than Alice and Alice is taller than Tom, who is tallest?\nA: Let's think step by step. Bob > Alice > Tom. So Bob is the tallest."}
+{"text": "Q: If you have to be at least 18 to vote, and Emma is 20, can she vote?\nA: Let's think step by step. 20 \u2265 18, so yes, she can vote."}
+{"text": "Q: A bus leaves every 15 minutes. If one left at 2:45, when is the next one?\nA: Let's think step by step. 2:45 + 15 mins = 3:00."}
+{"text": "Q: If Peter is not younger than 20 and not older than 25, what is his age range?\nA: Let's think step by step. Peter is between 20 and 25 inclusive."}
+{"text": "Q: If pencils are not edible and pens are pencils, can pens be eaten?\nA: Let's think step by step. Pens are pencils. Pencils are not edible \u2192 pens are not edible."}
+{"text": "Q: If no birds can swim and penguins are birds, can penguins swim?\nA: Let's think step by step. If we accept no birds can swim, then penguins can\u2019t swim. But this contradicts real-world knowledge."}
+{"text": "Q: If 3 > 2 and 2 > 1, is 3 > 1?\nA: Let's think step by step. Yes. Transitive relation applies: 3 > 2 > 1 \u21d2 3 > 1."}
+{"text": "Q: If Sam is older than John, and John is older than Lily, who is the youngest?\nA: Let's think step by step. Sam > John > Lily \u2192 Lily is the youngest."}
+{"text": "Q: If all apples are fruits and all fruits are tasty, are apples tasty?\nA: Let's think step by step. Yes. Apples are fruits, and all fruits are tasty \u2192 apples are tasty."}
+{"text": "Q: If trains run every hour and one left at noon, when is the next train?\nA: Let's think step by step. Next train: 1:00 PM."}
+{"text": "Q: If Jane arrives before Tom and Tom arrives before Mark, who arrives last?\nA: Let's think step by step. Jane < Tom < Mark. So Mark arrives last."}
+{"text": "Q: If cars need fuel and mine is empty, what should I do?\nA: Let's think step by step. Fuel is required. Car is empty. Refill the tank."}
+{"text": "Q: Some pens are blue. All blue things are useful. Can we conclude all pens are useful?\nA: Let's think step by step. Only some pens are blue. Only blue things are useful. We cannot conclude all pens are useful."}
+{"text": "Q: You left a chocolate bar in the sun. It turned soft and sticky. What likely happened?\nA: Let's think step by step. Chocolate melts in heat. Being in the sun caused it to absorb heat and melt."}
+{"text": "Q: You drop a glass on the floor. What happens?\nA: Let's think step by step. A glass is fragile. Dropping it on a hard surface typically causes it to break."}
+{"text": "Q: You feel wet after being outside without an umbrella. What likely happened?\nA: Let's think step by step. If you're wet and outside without cover, it likely rained."}
+{"text": "Q: A car won\u2019t start and the fuel tank is empty. What's the issue?\nA: Let's think step by step. Cars need fuel to start. An empty tank prevents ignition."}
+{"text": "Q: You hear thunder and see lightning. What kind of weather is it?\nA: Let's think step by step. Thunder and lightning occur during a storm."}
+{"text": "Q: If your clothes are wet and hung in the sun, what happens?\nA: Let's think step by step. The sun evaporates moisture. Clothes will dry."}
+{"text": "Q: You smell smoke in the kitchen. What might be happening?\nA: Let's think step by step. Smoke indicates something may be burning."}
+{"text": "Q: You wake up, it\u2019s light outside, and your clock says 9:00. What time is it?\nA: Let's think step by step. Morning light + 9:00 = 9 AM."}
+{"text": "Q: You wear a coat and still feel cold. What does that suggest?\nA: Let's think step by step. The temperature is likely very low."}
+{"text": "Q: You plug in a lamp but it doesn\u2019t turn on. What's a possible reason?\nA: Let's think step by step. Possible issues: bulb burnt out, switch off, or power off."}
+{"text": "Q: You leave food out overnight and it smells bad. What happened?\nA: Let's think step by step. Left out food can spoil due to bacteria."}
+{"text": "Q: You hear a baby crying. What might it need?\nA: Let's think step by step. Crying babies may be hungry, tired, or need changing."}
+{"text": "Q: You drink coffee at night. What might happen?\nA: Let's think step by step. Caffeine is a stimulant. You may not sleep easily."}
+{"text": "Q: You're stuck in traffic and late for a meeting. What should you do?\nA: Let's think step by step. Let others know. Try alternative routes."}
+{"text": "Q: If you feel thirsty, what should you do?\nA: Let's think step by step. Thirst signals a need for hydration."}
+{"text": "Q: You're hungry but only candy is available. What\u2019s the better option?\nA: Let's think step by step. Candy is not nutritious. Better to wait for a meal."}
+{"text": "Q: You're outside without sunscreen and it\u2019s sunny. What might happen?\nA: Let's think step by step. You may get sunburned due to UV exposure."}
+{"text": "Q: You smell gas in the house. What should you do?\nA: Let's think step by step. Gas leaks are dangerous. Leave the house and call emergency services."}
+{"text": "Q: You\u2019re tired and it\u2019s 11 PM. What\u2019s the next reasonable action?\nA: Let's think step by step. Tiredness and late time suggest it\u2019s time to sleep."}
+{"text": "Q: Your phone isn't charging. What should you check first?\nA: Let's think step by step. Check if the cable is plugged in and working."}
+{"text": "Q: You hear a loud alarm while cooking. What might be the cause?\nA: Let's think step by step. Smoke detector may have been triggered by cooking fumes."}
+{"text": "Q: If you're running late for a meeting and the road is blocked, what should you do?\nA: Let's think step by step. You need to reach the meeting. The road is blocked, so you should find an alternate route or call ahead."}
+{"text": "Q: What planet is known as the Red Planet?\nA: Let's think step by step. The Red Planet is named for its color. Mars has iron oxide (rust) on its surface, making it appear red."}
+{"text": "Q: What is the capital of France?\nA: Let's think step by step. France's capital city is Paris."}
+{"text": "Q: Who painted the Mona Lisa?\nA: Let's think step by step. The Mona Lisa was painted by Leonardo da Vinci."}
+{"text": "Q: What is the largest planet in our solar system?\nA: Let's think step by step. Jupiter is the biggest planet in the solar system."}
+{"text": "Q: Which language has the most native speakers?\nA: Let's think step by step. Mandarin Chinese has the highest number of native speakers."}
+{"text": "Q: Which element has the chemical symbol O?\nA: Let's think step by step. O is the symbol for oxygen."}
+{"text": "Q: How many continents are there?\nA: Let's think step by step. There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia."}
+{"text": "Q: What gas do plants use for photosynthesis?\nA: Let's think step by step. Plants absorb carbon dioxide to produce oxygen."}
+{"text": "Q: Who discovered gravity after observing a falling apple?\nA: Let's think step by step. Isaac Newton formulated gravity after observing an apple fall."}
+{"text": "Q: Which country is known as the Land of the Rising Sun?\nA: Let's think step by step. Japan is famously known as the Land of the Rising Sun."}
+{"text": "Q: What is the longest river in the world?\nA: Let's think step by step. The Nile is often considered the longest river."}
+{"text": "Q: What is the smallest prime number?\nA: Let's think step by step. The first and smallest prime number is 2."}
+{"text": "Q: Who wrote Romeo and Juliet?\nA: Let's think step by step. The famous play was written by William Shakespeare."}
+{"text": "Q: Which ocean is the largest?\nA: Let's think step by step. The Pacific Ocean is the largest."}
+{"text": "Q: What planet is closest to the sun?\nA: Let's think step by step. Mercury is the innermost planet."}
+{"text": "Q: What is H2O commonly known as?\nA: Let's think step by step. H2O is the chemical formula for water."}
+{"text": "Q: Which animal is the fastest on land?\nA: Let's think step by step. The cheetah is the fastest land animal."}
+{"text": "Q: How many sides does a hexagon have?\nA: Let's think step by step. A hexagon has 6 sides."}
+{"text": "Q: What is the name of the fairy in Peter Pan?\nA: Let's think step by step. The fairy companion of Peter Pan is Tinker Bell."}
+{"text": "Q: In which year did World War II end?\nA: Let's think step by step. World War II ended in 1945."}
+{"text": "Q: What instrument has 88 keys?\nA: Let's think step by step. A standard piano has 88 keys."}
+{"text": "Q: In which year did humans first land on the Moon?\nA: Let's think step by step. Apollo 11 landed in July 1969. Neil Armstrong stepped onto the lunar surface that year."}
