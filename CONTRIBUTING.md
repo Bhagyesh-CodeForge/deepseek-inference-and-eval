@@ -30,7 +30,7 @@ Since this project is developed under an **academic research internship**, contr
 ## 🚫 What Not to Do
 - Do not submit plagiarized or copied code.  
 - Do not remove or alter author credits or license notices.  
-- Do not use this repository for **commercial purposes** (see [LICENSE](LICENSE)).  
+- Do not use this repository for **commercial purposes** (see [LICENSE](LICENSE.txt)).  
 - Do not submit irrelevant files (e.g., system files, large binaries, personal notes).  
 
 ---
