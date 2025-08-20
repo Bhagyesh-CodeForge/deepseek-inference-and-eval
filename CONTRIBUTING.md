@@ -54,6 +54,6 @@ If you discover a bug, typo, or have suggestions:
 
 ## 🙌 Acknowledgment
 This repository was created by **Bhagyesh Makhamale**,  
-under the academic guidance of **Dr. Yogita Mahatekar (Assistant Professor, Department of Artificial Intelligence and Data Science, COEP Technological University)**.  
+under the academic guidance of **Dr. Yogita Mahatekar (Assistant Professor, COEP Technological University)**.  
 
 By contributing, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
