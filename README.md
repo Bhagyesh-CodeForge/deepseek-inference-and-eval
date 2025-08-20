@@ -59,4 +59,4 @@ This repository is released under a CC BY-NC 4.0 license for academic, research,
 
 If this repository contributes to a publication, journal, thesis, or project, attribution is mandatory in the References or Acknowledgments section.
 
-📄 View the full license in the LICENSE.txt file.
+📄 View the full license in the LICENSE.md file.
